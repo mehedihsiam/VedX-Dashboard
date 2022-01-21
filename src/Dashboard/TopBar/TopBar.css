@@ -1,0 +1,11 @@
+.top-bar{
+    height: 50px;
+    border-bottom: 1px solid #4FBABA;
+    display: flex;
+    align-items: center;
+}
+
+.page-title{
+    color: #4FBABA;
+    font-weight: 600;
+}

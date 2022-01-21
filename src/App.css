@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.container{
+  width: 97%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.fw-500{
+  font-weight: 500;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
